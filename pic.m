@@ -26,7 +26,7 @@ for i=1:m
    end
 end
 
-xmin=min(xy(1:ngra,1));
+xmin=min(xy(1:ngra,1));;
 ymin=min(xy(1:ngra,2));
 xmax=max(xy(1:ngra,1));
 ymax=max(xy(1:ngra,2));
