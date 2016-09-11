@@ -16,7 +16,7 @@ compl = 2*6.1; compl = 1; par.cmp=compl;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 t=intvar(m,1);
-assign(t,ones(m,1));
+assign(t,ones(m,1));;
 
 len = zeros(m,1);
 for i=1:m
