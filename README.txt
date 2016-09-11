@@ -33,7 +33,7 @@ in Matlab:
 
 4. WHAT SHOULD BE CHANGED MANUALLY
 
-Some parameters, such as \gamma or \lambdamin are different for each 
+Some parameters, such as 'gamma' or 'lambdamin' are different for each 
 example (see the article). These must be changed manually in the respective
 minvol*.m file
 
